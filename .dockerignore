@@ -1,0 +1,11 @@
+node_modules
+.next
+.vscode
+.git
+.github
+.env.local
+npm-debug.log
+yarn-error.log
+scratch/
+PROGRESS_SUMMARY.md
+tsconfig.tsbuildinfo
