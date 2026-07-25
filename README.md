@@ -89,18 +89,6 @@ npm install
 ▶️ Run Project:
 npm run dev  
 
----
-
-🔑 Environment Variables
-
-Create a `.env.local` file and add:
-
-GEMINI_API_KEY=your_key  
-TAVILY_API_KEY=your_key  
-FIREBASE_CONFIG=your_config  
-NEXTAUTH_SECRET=your_secret  
-EMAIL_USER=your_email  
-EMAIL_PASS=your_password  
 
 ---
 
